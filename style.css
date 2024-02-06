@@ -19,3 +19,8 @@ div button {
     background-color: purple;
     color: azure;
 }
+
+button:hover {
+    background-color: yellow;
+    color: blue;
+}

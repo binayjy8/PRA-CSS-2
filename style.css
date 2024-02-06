@@ -9,3 +9,8 @@
 h1,h3,h5 {
     font-family: Georgia;
 }
+
+div[id="para"] {
+    background-color: cornflowerblue;
+    color: white;
+}

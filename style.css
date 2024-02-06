@@ -14,3 +14,8 @@ div[id="para"] {
     background-color: cornflowerblue;
     color: white;
 }
+
+div button {
+    background-color: purple;
+    color: azure;
+}

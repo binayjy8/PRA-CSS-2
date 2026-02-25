@@ -1,1 +1,1 @@
-# PRA-CSS-2 The author is awesom
+# PRA-CSS-2 The author is awesome
